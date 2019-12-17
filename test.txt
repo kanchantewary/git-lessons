@@ -1,4 +1,5 @@
 first readme comment
 second comment goes here
+new inserted record from git web console - changed at 17-26
 this is a junk record
 this is to test a merge conflict - record from cmd
