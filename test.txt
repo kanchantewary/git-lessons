@@ -1,3 +1,4 @@
 first readme comment
 second comment goes here
 this is a junk record
+this is to test a merge conflict - record from cmd
